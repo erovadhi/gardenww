@@ -226,4 +226,22 @@ Ukuran Eris yang sedikit lebih besar dari Pluto menyebabkan astronom berdebat me
 Waktu yang digunakan planet untuk mengitari Matahari disebut periode tahun, sedangkan waktu yang digunakan planet untuk berputar pada sumbunya disebut periode hari. Berdasarkan jarak antara planet dengan Matahari menyebabkan panjang 1 tahun tiap planet berbeda-beda. Demikian juga dengan panjang 1 hari tiap planet, ini dipengaruhi salah satunya oleh ukuran planet tersebut.
 ## Siang dan Malam
 Bayangkan Bumi memiliki garis yang menghubungkan kutub utara dan kutub selatan. Garis ini kita sebut sebagai sumbu atau poros. Ketika Bumi berputar mengitari poros ini, saat itulah pergantian siang dan malam terjadi. Bagian Bumi yang menerima sinar Matahari langsung akan mengalami siang, sebaliknya bagian Bumi yang lain akan mengalami malam. Gerakan Bumi pada porosnya terjadi dari arah barat ke timur. Adanya arah gerak inilah yang mengakibatkan terjadinya perbedaan waktu di Indonesia.
+
+Wilayah Indonesia yang terbentang luas dari Barat ke Timur menyebabkan tidak semua wilayah mendapatkan sinar Matahari secara bersamaan. Matahari lebih dahulu muncul dan terbenam di wilayah Indonesia Timur, lalu ke Indonesia Tengah, dan terakhir di wilayah Indonesia Barat.
+
 ![](https://i0.wp.com/langitselatan.com/wp-content/uploads/dlm_uploads/2017/06/20170612_LS_Siang_Malam.jpeg?resize=702%2C1000&ssl=1)
+
+Kemiringan poros ini menyebabkan panjang waktu siang dan malam bisa berbeda-beda. Hal ini terutama akan terasa di negara-negara bagian utara dan selatan. Ada kalanya mereka mengalami siang yang sangat panjang saat musim panas tiba, dan malam yang sangat pendek. Di lain waktu saat musim dingin, siang lebih pendek dan malam lebih panjang.
+
+Di negara khatulistiwa seperti Indonesia, hal itu tidak terlalu kita rasakan. Panjang siang dan malam yang kita alami setiap harinya tidak ekstrim seperti itu. Perbedaan biasanya terjadi sekitar 1-3 menit saja.
+
+## Pergantian Tahun
+Bumi mengelilingi Matahari secara penuh selama 1 tahun. Garis edar yang ditempuh Bumi dalam perjalanan itu disebut sebagai orbit. Sambil bergerak mengelilingi Matahari di orbitnya, Bumi juga berputar di porosnya.
+
+Bumi menyelesaikan putarannya dalam waktu 365,25 hari. Itu sebabnya, untuk memudahkan penghitungan hari, setiap 4 tahun sekali akan ditambahkan 1 hari pada kalender tahunan kita. Tahukah kalian pada bulan apa 1 hari tersebut ditambahkan? Pada tahun dengan tambahan 1 hari ini, kita menyebutnya sebagai tahun kabisat.
+## Pergantian Musim
+Selain pergantian tahun, gerak Bumi mengelilingi Matahari juga menyebabkan pergantian musim. Musim yang dialami suatu daerah sangat bergantung pada posisinya di Bumi. Garis-garis khayal memudahkan kita mengenal posisi suatu daerah di Bumi. Bumi dibagi oleh garis khatulistiwa, garis yang berada tepat di tengah-tengah. Garis khatulistiwa ini membagi Bumi menjadi dua, yaitu Belahan Bumi Utara dan Belahan Bumi Selatan. Indonesia berada di daerah khatulistiwa, karena letaknya tepat di garis khatulistiwa. Daerah yang berada di garis khatulistiwa hanya mengalami dua musim, yaitu musim kemarau dan musim hujan. Adapun di daerah yang berada di Belahan Bumi Utara dan Belahan Bumi Selatan, keduanya mengalami empat musim, yaitu musim panas, musim gugur, musim dingin, dan musim semi. Pada saat Belahan Bumi Utara mengalami musim dingin, Belahan Bumi Selatan akan mengalami musim panas.
+
+![](https://annisafupi.wordpress.com/wp-content/uploads/2015/05/pergantian-musim.jpg)
+
+Posisi Bumi tidak sepenuhnya lurus seperti pada di atas. Bumi berputar dengan kemiringan 23° terhadap sumbu rotasinya. Kemiringan ini yang menyebabkan durasi siang dan malam berbeda-beda di setiap daerah, juga bergantung pada posisi revolusinya terhadap Matahari. Hanya daerah yang berada di khatulistiwa yang cenderung seimbang durasi siang dan malam sepanjang tahun. Gambar berikut menunjukkan bagaimana posisi Bumi yang miring dan ilustrasi sinar Matahari yang sampai di permukaan Bumi.
