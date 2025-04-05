@@ -161,6 +161,17 @@ Sabuk asteroid terdiri dari beribu-ribu, mungkin jutaan objek yang berdiameter s
 [Komet](https://id.wikipedia.org/wiki/Komet "Komet") adalah badan Tata Surya kecil, biasanya hanya berukuran beberapa kilometer, dan terbuat dari [es volatil](https://id.wikipedia.org/w/index.php?title=Es_volatil&action=edit&redlink=1 "Es volatil (halaman belum tersedia)"). Badan-badan ini memiliki eksentrisitas orbit tinggi, secara umum [perihelion](https://id.wikipedia.org/wiki/Perihelion "Perihelion")-nya terletak di planet-planet bagian dalam dan letak [aphelion](https://id.wikipedia.org/wiki/Aphelion "Aphelion")-nya lebih jauh dari [Pluto](https://id.wikipedia.org/wiki/Pluto "Pluto"). Saat sebuah komet memasuki Tata Surya bagian dalam, dekatnya jarak dari Matahari menyebabkan permukaan esnya bersumblimasi dan berionisasi, yang menghasilkan koma, ekor gas dan debu panjang, yang sering dapat dilihat dengan mata telanjang.
 
 Komet berperioda pendek memiliki kelangsungan orbit kurang dari dua ratus tahun. Sedangkan komet berperioda panjang memiliki orbit yang berlangsung ribuan tahun. Komet berperioda pendek dipercaya berasal dari [Sabuk Kuiper](https://id.wikipedia.org/wiki/Sabuk_Kuiper "Sabuk Kuiper"), sedangkan komet berperioda panjang, seperti [Hale-bopp](https://id.wikipedia.org/w/index.php?title=Hale-bopp&action=edit&redlink=1 "Hale-bopp (halaman belum tersedia)"), berasal dari [Awan Oort](https://id.wikipedia.org/wiki/Awan_Oort "Awan Oort"). Banyak kelompok komet, seperti [Kreutz Sungrazers](https://id.wikipedia.org/w/index.php?title=Kreutz_Sungrazers&action=edit&redlink=1 "Kreutz Sungrazers (halaman belum tersedia)"), terbentuk dari pecahan sebuah induk tunggal. Sebagian komet berorbit hiperbolik mungking berasal dari luar Tata Surya, tetapi menentukan jalur orbitnya secara pasti sangatlah sulit. Komet tua yang bahan volatilesnya telah habis karena panas Matahari sering dikategorikan sebagai [asteroid](https://id.wikipedia.org/wiki/Asteroid "Asteroid").
+
+### Asteroid
+Memiliki nama lain yaitu planet minor atau planetoid, asteroid adalah benda langit yang juga mengorbit pada Matahari. Ukurannya jauh lebih kecil dibanding planet. Ada tiga kelompok asteroid yang diketahui saat ini, yaitu Sabuk Asteroid Utama, Trojan, dan Asteroid Dekat Bumi. Saat ini sudah 995.413 buah asteroid yang ditemukan di Tata Surya.
+
+Memiliki nama lain yaitu planet minor atau planetoid, asteroid adalah benda langit yang juga mengorbit pada Matahari. Ukurannya jauh lebih kecil dibanding planet. Ada tiga kelompok asteroid yang diketahui saat ini, yaitu Sabuk Asteroid Utama, Trojan, dan Asteroid Dekat Bumi. Saat ini sudah 995.413 buah asteroid yang ditemukan di Tata Surya.
+
+Memiliki nama lain yaitu planet minor atau planetoid, asteroid adalah benda langit yang juga mengorbit pada Matahari. Ukurannya jauh lebih kecil dibanding planet. Ada tiga kelompok asteroid yang diketahui saat ini, yaitu Sabuk Asteroid Utama, Trojan, dan Asteroid Dekat Bumi. Saat ini sudah 995.413 buah asteroid yang ditemukan di Tata Surya.
+
+### Meteor, Meteorit dan Meteoroid
+Sekilas tampak sama, tetapi ketiganya dibuat untuk menandai benda langit yang berbeda. Meteoroid adalah benda langit yang ukurannya sangat bervariasi. Sebut saja mereka adalah batu luar angkasa. Saat meteoroid itu memasuki atmosfer Bumi, ia akan terbakar dan jatuh ke permukaan Bumi, lalu berubah nama menjadi meteor. Setelah berhasil melalui atmosfer Bumi, terbakar, dan menyentuh tanah, inilah yang kita sebut Meteorit.
+
 ### Satelit
 **Satelit alami** adalah objek angkasa yang mengorbit sebuah planet, planet katai, atau benda lain yang lebih besar daripada dirinya (atau bahkan terkadang satelit alami lainnya). Sebenarnya terminologi ini berlaku juga bagi planet yang mengelilingi sebuah bintang, atau bahkan sebuah bintang yang mengelilingi pusat galaksi, tetapi jarang digunakan. Satelit alami juga dapat disebut sebagai **bulan**, yang merupakan turunan dari istilah Bulan yang merupakan satelit Bumi. Di sisi lain, Satelit buatan adalah benda buatan manusia yang beredar mengelilingi suatu benda langit.
 
@@ -179,7 +190,8 @@ Titan adalah satelit terbesar planet Saturnus dan menjadi satu-satunya satelit y
 Keistimewaan lain dari Titan adalah bukti-bukti bahwa Titan mengandung cairan di permukaannya, dalam bentuk sungai-sungai, danau, dan lautan. Cairan ini adalah cairan hidrokarbon seperti metana dan etana. Kondisi ini membuat sebagian ilmuwan menyimpulkan, bisa jadi di Titan terdapat kehidupan yang makhluknya tersusun atas kandungan kimiawi yang berbeda, tidak seperti makhluk Bumi. Tapi tentu saja, ini semua belum dapat dibuktikan.
 ### Io
 Io adalah satelit ketiga terbesar milik Jupiter, dengan keaktifan vulkanis yang sangat tinggi. Ledakanledakan vulkanik ini disebabkan oleh gaya gravitasi Jupiter sebagai planet induknya dan dua satelit tetangga yang jaraknya cukup dekat yaitu Europa dan Ganymede. Seperti Ganymede, Io memutari Jupiter dengan posisi sisi yang sama sepanjang waktu. Adanya tetangga satelit ini menyebabkan gerakan Io nyaris tak beraturan. Aktivitas vulkanik yang terus menerus dan radiasi membuat ilmuwan meyakini sulit untuk hidup di satelit ini.
-## Planet Kerdil
+
+### Planet Kerdil
 **Planet katai** atau **planet kerdil** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _dwarf planet_) adalah sebutan bagi [benda-benda langit](https://id.wikipedia.org/wiki/Benda_angkasa "Benda angkasa") yang memutari matahari dalam [Tata Surya](https://id.wikipedia.org/wiki/Tata_Surya "Tata Surya") yang sesuai dengan ciri-ciri berikut:
 
 - [mengedar](https://id.wikipedia.org/wiki/Orbit "Orbit") mengelilingi [matahari](https://id.wikipedia.org/wiki/Matahari "Matahari")
@@ -188,3 +200,30 @@ Io adalah satelit ketiga terbesar milik Jupiter, dengan keaktifan vulkanis yang 
 - bukan merupakan [satelit](https://id.wikipedia.org/wiki/Satelit "Satelit") sebuah planet atau benda angkasa nonbintang lainnya
 
 Kategori "planet katai" ini diciptakan pada pertemuan [Persatuan Astronomi Internasional](https://id.wikipedia.org/wiki/Persatuan_Astronomi_Internasional "Persatuan Astronomi Internasional") pada [24 Agustus](https://id.wikipedia.org/wiki/24_Agustus "24 Agustus") [2006](https://id.wikipedia.org/wiki/2006 "2006"). Berdasarkan definisi ini, [Pluto](https://id.wikipedia.org/wiki/Pluto "Pluto") harus berubah statusnya dari planet menjadi planet katai karena Pluto belum mengosongkan daerah di sekitar orbitnya ([Sabuk Kuiper](https://id.wikipedia.org/wiki/Sabuk_Kuiper "Sabuk Kuiper")).
+#### Pluto
+Pluto adalah benda langit yang mencuri perhatian. Pernah dianggap planet untuk waktu yang cukup lama tetapi ilmuwan yang melakukan penyelidikan intensif menyadari ada perbedaan antara Pluto dengan kedelapan planet lainnya di Tata Surya. Selain itu, planet kerdil ini juga memiliki fisik yang menarik, yaitu satelit-satelit yang berputarputar, gunung-gunung yang tinggi, serta salju yang berwarna merah.
+
+Posisinya yang begitu jauh dari Matahari setara dengan 40 kali jarak Matahari ke Bumi. Pluto terletak di sebuah area yang disebut Sabuk Kuiper. Sabuk Kuiper itu sendiri dimulai dari Neptunus, sehingga benda-benda langit yang berada di daerah ini juga disebut sebagai objek trans-Neptunus.
+#### Ceres
+Ceres yang dulunya dimasukkan dalam golongan asteroid ini “tinggal” di Sabuk Asteroid. Sabuk Asteroid terletak di antara Mars dan Jupiter. Ceres adalah objek terbesar di Sabuk Asteroid. Bahkan dibandingkan dengan asteroid lainnya, ukuran Ceres memang jauh berbeda. Itu pula yang menjadi salah satu penyebab mengapa Ceres berganti status menjadi planet kerdil.
+
+Meski belum terbukti memiliki lapisan atmosfer di permukaannya, ilmuwan masih menimbang kemungkinan Ceres berpotensi dapat menopang kehidupan. Pertimbangan ini dikarenakan adanya temuan bahwa di Ceres terdapat air
+
+#### Haumea
+Satu lagi benda langit yang unik, mari berkenalan dengan Haumea. Planet kerdil ini berbentuk oval, tidak bulat seperti kebanyakan planet. Haumea juga termasuk dalam objek trans-Neptunus, dan memiliki dua satelit yang berputar mengelilinginya, yaitu Namaka dan Hi’iaka. Bentuknya yang oval disebabkan oleh gerak rotasinya yang sangat cepat.
+
+Pengetahuan tentang Haumea masih sangat terbatas. Ilmuwan masih terus berusaha menyelidikinya. Sejauh ini yang diketahui adalah suhu permukaannya yang sangat ekstrim dinginnya. Haumea juga tidak memiliki medan magnetik sendiri. Selain itu, Haumea juga ditemukan ternyata memiliki cincin.
+
+#### Makemake
+Berlokasi yang sama dengan Pluto, Haumea, dan Eris, Makemake adalah objek paling terang kedua di Sabuk Kuiper setelah Pluto. Penemuan Makemake dan Eris-lah yang membuat ilmuwan kembali mempertimbangkan ulang mengenai syarat benda langit yang disebut planet, hingga terciptalah istilah planet kerdil.
+
+Letaknya yang sangat jauh dari Bumi menyebabkan pengamatan pada bentuk fisik permukaan Makemake masih cukup sulit dilakukan. Dari jauh, terlihat warna Makemake seperti Pluto, merah kecoklatan. Ilmuwan juga menemukan metana dan etana beku di permukaannya.
+
+#### Eris
+Ukuran Eris yang sedikit lebih besar dari Pluto menyebabkan astronom berdebat mengenai definisi planet. Permukaannya juga mirip seperti Pluto, berbatu-batu. Ilmuwan menduga suhu permukaannya berkisar -217°C hingga -243°C.
+
+# Bumi dan Satelitnya
+Waktu yang digunakan planet untuk mengitari Matahari disebut periode tahun, sedangkan waktu yang digunakan planet untuk berputar pada sumbunya disebut periode hari. Berdasarkan jarak antara planet dengan Matahari menyebabkan panjang 1 tahun tiap planet berbeda-beda. Demikian juga dengan panjang 1 hari tiap planet, ini dipengaruhi salah satunya oleh ukuran planet tersebut.
+## Siang dan Malam
+Bayangkan Bumi memiliki garis yang menghubungkan kutub utara dan kutub selatan. Garis ini kita sebut sebagai sumbu atau poros. Ketika Bumi berputar mengitari poros ini, saat itulah pergantian siang dan malam terjadi. Bagian Bumi yang menerima sinar Matahari langsung akan mengalami siang, sebaliknya bagian Bumi yang lain akan mengalami malam. Gerakan Bumi pada porosnya terjadi dari arah barat ke timur. Adanya arah gerak inilah yang mengakibatkan terjadinya perbedaan waktu di Indonesia.
+![](https://i0.wp.com/langitselatan.com/wp-content/uploads/dlm_uploads/2017/06/20170612_LS_Siang_Malam.jpeg?resize=702%2C1000&ssl=1)
