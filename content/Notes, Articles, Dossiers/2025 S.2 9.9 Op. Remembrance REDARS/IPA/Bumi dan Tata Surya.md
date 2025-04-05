@@ -34,23 +34,122 @@ Empat [planet](https://id.wikipedia.org/wiki/Planet "Planet") bagian dalam ata
 ### Merkurius
 **Merkurius** (0,4 SA dari Matahari) adalah planet terdekat dari Matahari serta juga terkecil (0,055 massa bumi). Merkurius tidak memiliki satelit alami dan ciri geologisnya di samping kawah meteorid yang diketahui adalah _lobed ridges_ atau _rupes_, kemungkinan terjadi karena pengerutan pada perioda awal sejarahnya. Atmosfer Merkurius yang hampir bisa diabaikan terdiri dari atom-atom yang terlepas dari permukaannya karena semburan angin surya. Besarnya inti besi dan tipisnya kerak Merkurius masih belum bisa dapat diterangkan. Menurut dugaan hipotesis lapisan luar planet ini terlepas setelah terjadi tabrakan raksasa, dan perkembangan ("akresi") penuhnya terhambat oleh energi awal Matahari.
 
-| Karakteristik     | Deskripsi                                                         |
-| ----------------- | ----------------------------------------------------------------- |
-| Massa             | 0,056 kali massa Bumi                                             |
-| Satelit           | Tidak ada                                                         |
-| Diameter          | 4,878 km (setara 0,38 kali diameter Bumi)                         |
-| Penyusun Atmosfet | Mayoritas Helium                                                  |
-| Gravitasi         | 0,38 kali gravitasi Bumi                                          |
-| Suhu di permukaan | -170$\degree$ pada malam hari dan<br>430$\degree$ pada siang hari |
-| Periode rotasi    | 59 hari (ukuran Bumi)                                             |
+| Karakteristik       | Deskripsi                                                         |
+| ------------------- | ----------------------------------------------------------------- |
+| Massa               | 0,056 kali massa Bumi                                             |
+| Satelit             | Tidak ada                                                         |
+| Diameter            | 4,878 km (setara 0,38 kali diameter Bumi)                         |
+| Penyusun Atmosfet   | Mayoritas Helium                                                  |
+| Gravitasi           | 0,38 kali gravitasi Bumi                                          |
+| Suhu permukaan      | -170$\degree$ pada malam hari dan<br>430$\degree$ pada siang hari |
+| Periode rotasi      | 59 hari (ukuran Bumi)                                             |
+| Jarak dari Matahari | 0,39 SA                                                           |
+| Periode revolusi    | 88 hari                                                           |
 
 ### Venus
 **Venus** (0,7 SA dari Matahari) berukuran mirip bumi (0,815 massa bumi). Dan seperti [bumi](https://id.wikipedia.org/wiki/Bumi "Bumi"), planet ini memiliki selimut kulit silikat yang tebal dan berinti besi, atmosfernya juga tebal dan memiliki aktivitas geologi. Akan tetapi planet ini lebih kering dari bumi dan atmosfernya sembilan kali lebih padat dari bumi. Venus tidak memiliki satelit. Venus adalah planet terpanas dengan suhu permukaan mencapai 400 °C, kemungkinan besar disebabkan jumlah gas rumah kaca yang terkandung di dalam atmosfer. Sejauh ini aktivitas geologis Venus belum dideteksi, tetapi karena planet ini tidak memiliki medan magnet yang bisa mencegah habisnya atmosfer, diduga sumber atmosfer Venus berasal dari [gunung berapi](https://id.wikipedia.org/wiki/Gunung_berapi "Gunung berapi").
+
+| Karakteristik       | Deskripsi                                                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Massa               | 0,815 kali massa Bumi                                                                                                       |
+| Satelit             | Tidak ada                                                                                                                   |
+| Diameter            | 12.103 km (setara 0,95 kali diameter Bumi)                                                                                  |
+| Penyusun Atmosfer   | Lapisan setebal 80 km yang terdiri atas karbon dioksida dengan sebagian uap air. Awan mengandung tetesan asam sulfat pekat. |
+| Gravitasi           | 0,9 kali gravitasi Bumi                                                                                                     |
+| Suhu permukaan      | 460°C                                                                                                                       |
+| Periode rotasi      | 243 hari (ukuran Bumi)                                                                                                      |
+| Jarak dari Matahari | 0,72 SA (Satuan Astronomi)                                                                                                  |
+| Periode revolusi    | 225 hari (ukuran Bumi)                                                                                                      |
+
 ### Bumi
 **Bumi** (1 SA dari Matahari) adalah planet bagian dalam yang terbesar dan terpadat, satu-satunya yang diketahui memiliki aktivitas geologi dan satu-satunya planet yang diketahui memiliki mahluk hidup. 70% bagian bumi ditutup oleh air sedangkan 30%bumi ditutupi oleh daratan. [Hidrosfernya](https://id.wikipedia.org/wiki/Hidrosfer "Hidrosfer") yang cair adalah khas di antara planet-planet kebumian dan juga merupakan satu-satunya planet yang diamati memiliki lempeng tektonik. Atmosfer bumi sangat berbeda dibandingkan planet-planet lainnya, karena dipengaruhi oleh keberadaan mahluk hidup yang menghasilkan 21% [oksigen](https://id.wikipedia.org/wiki/Oksigen "Oksigen"). Bumi memiliki satu [satelit](https://id.wikipedia.org/wiki/Satelit "Satelit"), [bulan](https://id.wikipedia.org/wiki/Bulan "Bulan"), satu-satunya satelit besar dari planet kebumian di dalam Tata Surya.
+
+| Karakteristik       | Deskripsi                                                                       |
+| ------------------- | ------------------------------------------------------------------------------- |
+| Massa               | 5.980.000.000.000.000.000.000.000 kg                                            |
+| Satelit             | 1 (disebut Bulan)                                                               |
+| Diameter            | 12.756 km                                                                       |
+| Penyusun Atmosfer   | 78% nitrogen, 21% oksigen, 1% karbon dioksida, argon dan uap air serta gas lain |
+| Gravitasi           | 9,807 m/s2 (1,0 kali gravitasi Bumi)                                            |
+| Suhu permukaan      | Sekitar 22°C                                                                    |
+| Periode rotasi      | 1 hari (ukuran Bumi)                                                            |
+| Jarak dari Matahari | 149.600.000 km atau 1 SA (Satuan Astronomi)                                     |
+| Periode revolusi    | 365,25 hari (ukuran Bumi)                                                       |
+
 ### Mars
 **Mars** (1,5 SA dari Matahari) berukuran lebih kecil dari bumi dan Venus (0,107 massa bumi). Planet ini memiliki atmosfer tipis yang kandungan utamanya adalah [karbon dioksida](https://id.wikipedia.org/wiki/Karbon_dioksida "Karbon dioksida"). Permukaan Mars yang dipenuhi gunung berapi raksasa seperti [Olympus Mons](https://id.wikipedia.org/wiki/Olympus_Mons "Olympus Mons") dan lembah retakan seperti [Valles marineris](https://id.wikipedia.org/wiki/Valles_marineris "Valles marineris"), menunjukan aktivitas geologis yang terus terjadi sampai baru belakangan ini. Warna merahnya berasal dari warna karat tanahnya yang kaya besi. Mars mempunyai dua satelit alami kecil ([Deimos](https://id.wikipedia.org/wiki/Deimos "Deimos") dan [Fobos](https://id.wikipedia.org/wiki/Fobos "Fobos")) yang diduga merupakan [asteroid](https://id.wikipedia.org/wiki/Asteroid "Asteroid") yang terjebak gravitasi Mars.
-## Sabuk Asteroid
+
+| Karakteristik       | Deskripsi                                                             |
+| ------------------- | --------------------------------------------------------------------- |
+| Massa               | 0,107 kali massa Bumi                                                 |
+| Satelit             | 2 (Phobos dan Deimos)                                                 |
+| Diameter            | 6.794 km (setara 0,53 kali diameter Bumi)                             |
+| Penyusun Atmosfer   | Lapisan sangat tipis yang sebagian besar terdiri atas karbon dioksida |
+| Gravitasi           | 0,376 kali gravitasi Bumi                                             |
+| Suhu permukaan      | Berkisar -120°C hingga 25°C                                           |
+| Periode rotasi      | 1,03 hari (ukuran Bumi)                                               |
+| Jarak dari Matahari | 1,52 SA (Satuan Astronomi)                                            |
+| Periode revolusi    | 687 hari (ukuran Bumi)                                                |
+## Planet Raksasa Gas
+### Jupiter
+**Jupiter** (5,2 SA), dengan 318 kali massa bumi, adalah 2,5 kali massa dari gabungan seluruh planet lainnya. Kandungan utamanya adalah [hidrogen](https://id.wikipedia.org/wiki/Hidrogen "Hidrogen") dan [helium](https://id.wikipedia.org/wiki/Helium "Helium"). Sumber panas di dalam Jupiter menyebabkan timbulnya beberapa ciri semi-permanen pada atmosfernya, sebagai contoh pita pita awan dan [Bintik Merah Raksasa](https://id.wikipedia.org/wiki/Bintik_Merah_Raksasa "Bintik Merah Raksasa"). Sejauh yang diketahui Jupiter memiliki 63 satelit. Empat yang terbesar, [Ganimede](https://id.wikipedia.org/wiki/Ganimede_\(satelit\) "Ganimede (satelit)"), [Kalisto](https://id.wikipedia.org/wiki/Kalisto_\(satelit\) "Kalisto (satelit)"), [Io](https://id.wikipedia.org/wiki/Io_\(satelit\) "Io (satelit)"), dan [Europa](https://id.wikipedia.org/wiki/Europa_\(satelit\) "Europa (satelit)") menampakan kemiripan dengan planet kebumian, seperti gunung berapi dan inti yang panas. Ganimede, yang merupakan satelit terbesar di Tata Surya, berukuran lebih besar dari Merkurius.
+
+| Karakteristik       | Deskripsi                                    |
+| ------------------- | -------------------------------------------- |
+| Massa               | 318 kali massa Bumi                          |
+| Satelit             | 79 buah satelit dan 4 cincin                 |
+| Diameter            | 142.984 km (setara 11,21 kali diameter Bumi) |
+| Penyusun Atmosfer   | 84% hidrogen dan 15% helium                  |
+| Gravitasi           | 2,525 kali gravitasi Bumi                    |
+| Suhu permukaan      | -150°C                                       |
+| Periode rotasi      | 9 jam 55 menit (ukuran Bumi)                 |
+| Jarak dari Matahari | 5,2 SA (Satuan Astronomi)                    |
+| Periode revolusi    | 11,8 tahun (ukuran Bumi)                     |
+### Saturnus
+**Saturnus** (9,5 SA) yang dikenal dengan sistem cincinnya, memiliki beberapa kesamaan dengan Jupiter, sebagai contoh komposisi atmosfernya. Meskipun Saturnus sebesar 60% volume Jupiter, planet ini hanya memiliki massa kurang dari sepertiga Jupiter atau 95 kali massa bumi, membuat planet ini sebuah planet yang paling tidak padat di Tata Surya. Saturnus memiliki 60 satelit yang diketahui sejauh ini (dan 3 yang belum dipastikan) dua di antaranya [Titan](https://id.wikipedia.org/wiki/Titan "Titan") dan [Enseladus](https://id.wikipedia.org/wiki/Enseladus "Enseladus"), menunjukan aktivitas geologis, meski hampir terdiri hanya dari es saja. Titan berukuran lebih besar dari [Merkurius](https://id.wikipedia.org/wiki/Merkurius "Merkurius") dan merupakan satu-satunya satelit di Tata Surya yang memiliki atmosfer yang cukup berarti.
+
+| Karakteristik       | Deskripsi                                             |
+| ------------------- | ----------------------------------------------------- |
+| Massa               | 95,184 kali massa Bumi                                |
+| Satelit             | 82 buah satelit dan 7 cincin                          |
+| Diameter            | 120.536 km (setara 9,45 kali diameter Bumi)           |
+| Penyusun Atmosfer   | Lapisan sangat tebal terdiri atas hidrogen dan helium |
+| Gravitasi           | 1,064 kali gravitasi Bumi                             |
+| Suhu permukaan      | -180°C                                                |
+| Periode rotasi      | 10 jam 39 menit (ukuran Bumi)                         |
+| Jarak dari Matahari | 9,6 SA (Satuan Astronomi)                             |
+| Periode revolusi    | 29,5 tahun (ukuran Bumi)                              |
+### Uranus
+**Uranus** (19,6 SA) yang memiliki 14 kali massa bumi, adalah planet yang paling ringan di antara planet-planet luar. Planet ini memiliki kelainan ciri orbit. Uranus mengedari Matahari dengan bujkuran poros 90 derajat pada [ekliptika](https://id.wikipedia.org/wiki/Ekliptika "Ekliptika"). Planet ini memiliki inti yang sangat dingin dibandingkan gas raksasa lainnya dan hanya sedikit memancarkan energi panas. Uranus memiliki 27 satelit yang diketahui, yang terbesar adalah [Titania](https://id.wikipedia.org/wiki/Titania_\(satelit\) "Titania (satelit)"), [Oberon](https://id.wikipedia.org/wiki/Oberon_\(satelit\) "Oberon (satelit)"), [Umbriel](https://id.wikipedia.org/wiki/Umbriel_\(satelit\) "Umbriel (satelit)"), [Ariel](https://id.wikipedia.org/wiki/Ariel_\(satelit\) "Ariel (satelit)") dan [Miranda](https://id.wikipedia.org/wiki/Miranda_\(satelit\) "Miranda (satelit)").
+
+| Karakteristik       | Deskripsi                                                                             |
+| ------------------- | ------------------------------------------------------------------------------------- |
+| Massa               | 14,54 kali massa Bumi                                                                 |
+| Satelit             | 27 buah satelit dan 13 cincin                                                         |
+| Diameter            | 51.200 km (setara 4.01 kali diameter Bumi)                                            |
+| Penyusun Atmosfer   | Hidrogen, helium, dan sangat bergejolak, dengan kecepatan angin lebih dari 600 km/jam |
+| Gravitasi           | 0,903 kali gravitasi Bumi                                                             |
+| Suhu permukaan      | -220°C                                                                                |
+| Periode rotasi      | 17 jam 14 menit (ukuran Bumi)                                                         |
+| Jarak dari Matahari | 19,2 SA (Satuan Astronomi)                                                            |
+| Periode revolusi    | 84 tahun (ukuran Bumi)                                                                |
+### Neptunus
+**Neptunus** (30 SA) meskipun sedikit lebih kecil dari Uranus, memiliki 17 kali massa bumi, sehingga membuatnya lebih padat. Planet ini memancarkan panas dari dalam tetapi tidak sebanyak Jupiter atau Saturnus. Neptunus memiliki 13 satelit yang diketahui. Yang terbesar, [Triton](https://id.wikipedia.org/wiki/Triton "Triton"), geologinya aktif, dan memiliki geyser nitrogen cair. Triton adalah satu-satunya satelit besar yang orbitnya terbalik arah (_retrograde_). Neptunus juga didampingi beberapa planet minor pada orbitnya, yang disebut Trojan Neptunus. Benda-benda ini memiliki resonansi 1:1 dengan Neptunus.
+
+| Karakteristik       | Deskripsi                                                      |
+| ------------------- | -------------------------------------------------------------- |
+| Massa               | 17,15 kali massa Bumi                                          |
+| Satelit             | 14 buah satelit dan 5 cincin                                   |
+| Diameter            | 49.528 km (setara 3,88 kali diameter Bumi)                     |
+| Penyusun Atmosfer   | Hidrogen, helium, dengan kecepatan angin lebih dari 600 km/jam |
+| Gravitasi           | 1,135 kali gravitasi Bumi                                      |
+| Suhu permukaan      | -220°C                                                         |
+| Periode rotasi      | 16 jam 7 menit (ukuran Bumi)                                   |
+| Jarak dari Matahari | 30,1 SA (Satuan Astronomi)                                     |
+| Periode revolusi    | 165 tahun (ukuran Bumi)                                        |
+|                     |                                                                |
+## Benda Langit Lainnya
+### Sabuk Asteroid
 [Asteroid](https://id.wikipedia.org/wiki/Asteroid "Asteroid") secara umum adalah objek Tata Surya yang terdiri dari batuan dan mineral logam beku.
 
 [Sabuk asteroid](https://id.wikipedia.org/wiki/Sabuk_asteroid "Sabuk asteroid") utama terletak di antara orbit [Mars](https://id.wikipedia.org/wiki/Mars "Mars") dan [Jupiter](https://id.wikipedia.org/wiki/Jupiter "Jupiter"), berjarak antara 2,3 dan 3,3 SA dari [matahari](https://id.wikipedia.org/wiki/Matahari "Matahari"), diduga merupakan sisa dari bahan formasi Tata Surya yang gagal menggumpal karena pengaruh gravitasi Jupiter.
@@ -58,4 +157,34 @@ Empat [planet](https://id.wikipedia.org/wiki/Planet "Planet") bagian dalam ata
 Gradasi ukuran asteroid adalah ratusan kilometer sampai mikroskopis. Semua asteroid, kecuali [Ceres](https://id.wikipedia.org/wiki/Ceres "Ceres") yang terbesar, diklasifikasikan sebagai [benda kecil Tata Surya](https://id.wikipedia.org/wiki/Benda_Kecil_Tata_Surya "Benda Kecil Tata Surya"). Beberapa asteroid seperti [Vesta](https://id.wikipedia.org/wiki/Vesta "Vesta") dan [Hygiea](https://id.wikipedia.org/wiki/Hygiea "Hygiea") mungkin akan diklasifikasi sebagai [planet katai](https://id.wikipedia.org/wiki/Planet_kerdil "Planet kerdil") jika terbukti telah mencapai [kesetimbangan hidrostatik](https://id.wikipedia.org/w/index.php?title=Kesetimbangan_hidrostatik&action=edit&redlink=1 "Kesetimbangan hidrostatik (halaman belum tersedia)").
 
 Sabuk asteroid terdiri dari beribu-ribu, mungkin jutaan objek yang berdiameter satu kilometer. Meskipun demikian, massa total dari sabuk utama ini tidaklah lebih dari seperseribu massa bumi. Sabuk utama tidaklah rapat, kapal ruang angkasa secara rutin menerobos daerah ini tanpa mengalami kecelakaan. Asteroid yang berdiameter antara 10 dan 10 m disebut meteorid.
+### Komet
+[Komet](https://id.wikipedia.org/wiki/Komet "Komet") adalah badan Tata Surya kecil, biasanya hanya berukuran beberapa kilometer, dan terbuat dari [es volatil](https://id.wikipedia.org/w/index.php?title=Es_volatil&action=edit&redlink=1 "Es volatil (halaman belum tersedia)"). Badan-badan ini memiliki eksentrisitas orbit tinggi, secara umum [perihelion](https://id.wikipedia.org/wiki/Perihelion "Perihelion")-nya terletak di planet-planet bagian dalam dan letak [aphelion](https://id.wikipedia.org/wiki/Aphelion "Aphelion")-nya lebih jauh dari [Pluto](https://id.wikipedia.org/wiki/Pluto "Pluto"). Saat sebuah komet memasuki Tata Surya bagian dalam, dekatnya jarak dari Matahari menyebabkan permukaan esnya bersumblimasi dan berionisasi, yang menghasilkan koma, ekor gas dan debu panjang, yang sering dapat dilihat dengan mata telanjang.
 
+Komet berperioda pendek memiliki kelangsungan orbit kurang dari dua ratus tahun. Sedangkan komet berperioda panjang memiliki orbit yang berlangsung ribuan tahun. Komet berperioda pendek dipercaya berasal dari [Sabuk Kuiper](https://id.wikipedia.org/wiki/Sabuk_Kuiper "Sabuk Kuiper"), sedangkan komet berperioda panjang, seperti [Hale-bopp](https://id.wikipedia.org/w/index.php?title=Hale-bopp&action=edit&redlink=1 "Hale-bopp (halaman belum tersedia)"), berasal dari [Awan Oort](https://id.wikipedia.org/wiki/Awan_Oort "Awan Oort"). Banyak kelompok komet, seperti [Kreutz Sungrazers](https://id.wikipedia.org/w/index.php?title=Kreutz_Sungrazers&action=edit&redlink=1 "Kreutz Sungrazers (halaman belum tersedia)"), terbentuk dari pecahan sebuah induk tunggal. Sebagian komet berorbit hiperbolik mungking berasal dari luar Tata Surya, tetapi menentukan jalur orbitnya secara pasti sangatlah sulit. Komet tua yang bahan volatilesnya telah habis karena panas Matahari sering dikategorikan sebagai [asteroid](https://id.wikipedia.org/wiki/Asteroid "Asteroid").
+### Satelit
+**Satelit alami** adalah objek angkasa yang mengorbit sebuah planet, planet katai, atau benda lain yang lebih besar daripada dirinya (atau bahkan terkadang satelit alami lainnya). Sebenarnya terminologi ini berlaku juga bagi planet yang mengelilingi sebuah bintang, atau bahkan sebuah bintang yang mengelilingi pusat galaksi, tetapi jarang digunakan. Satelit alami juga dapat disebut sebagai **bulan**, yang merupakan turunan dari istilah Bulan yang merupakan satelit Bumi. Di sisi lain, Satelit buatan adalah benda buatan manusia yang beredar mengelilingi suatu benda langit.
+
+Dalam Tata Surya, terdapat 137 satelit alami dengan berbagai ukuran yang mengorbit 6 planet (Merkurius dan Venus tidak memiliki satelit alami). Selain itu, sejumlah planet katai seperti Pluto, Eris, dan Haumea juga memiliki satelit. Pada bulan Maret 2016, diketahui terdapat 297 satelit planet minor.5 satelit alami terbesar yang pernah ditemukan manusia adalah: Ganimede (Jupiter), Titan (Saturnus), Kalisto (Jupiter), Io (Jupiter), serta Bulan (Bumi).
+
+Secara umum massa satelit alami jauh lebih kecil dibandingkan benda utamanya. Namun, massa Bulan melebihi 1% massa Bumi, dan massa Charon mencapai hampir seperdelapan massa Pluto. Untuk kasus kedua, satelit yang terkait cukup besar sehingga kedua benda mengorbit suatu titik diluar Pluto, dan sejumlah ahli astronomi menganggap kedua benda adalah planet katai ganda. Namun, menurut definisi Persatuan Astronomi Internasional] Charon dianggap sebagai satelit Pluto.
+
+Di antara seluruh satelit alami di Tata Surya, 22 diketahui memiliki massa yang cukup besar sehingga dapat runtuh membentuk benda bundar melalui gravitasinya sendiri.
+### Ganymede
+Ganymede adalah satelit Jupiter dan merupakan satelit terbesar di Tata Surya. Tidak hanya ukurannya yang menjadikan Ganymede istimewa. Saat ini, ia adalah satu-satunya satelit yang memiliki medan magnetnya sendiri. Adanya medan magnet ini menyebabkan di Ganymede sering muncul aurora, semacam semburat cahaya yang berpendar di sekitar kutubnya.
+
+Ditemukan sejak tahun 1610, Ganymede menarik perhatian banyak astronom untuk terus mempelajarinya. Berdasarkan hasil penyelidikan, ditemukan bahwa atmosfer Ganymede mengandung sejumlah kecil oksigen. Meski demikian, menurut ilmuwan, oksigen tersebut terlalu tipis untuk dapat memungkinkan adanya kehidupan seperti di Bumi.
+### Titan
+Titan adalah satelit terbesar planet Saturnus dan menjadi satu-satunya satelit yang terbukti memiliki lapisan atmosfer dengan kandungan yang penting. Seperti Bumi, atmosfer Titan mengandung lebih banyak nitrogen.
+
+Keistimewaan lain dari Titan adalah bukti-bukti bahwa Titan mengandung cairan di permukaannya, dalam bentuk sungai-sungai, danau, dan lautan. Cairan ini adalah cairan hidrokarbon seperti metana dan etana. Kondisi ini membuat sebagian ilmuwan menyimpulkan, bisa jadi di Titan terdapat kehidupan yang makhluknya tersusun atas kandungan kimiawi yang berbeda, tidak seperti makhluk Bumi. Tapi tentu saja, ini semua belum dapat dibuktikan.
+### Io
+Io adalah satelit ketiga terbesar milik Jupiter, dengan keaktifan vulkanis yang sangat tinggi. Ledakanledakan vulkanik ini disebabkan oleh gaya gravitasi Jupiter sebagai planet induknya dan dua satelit tetangga yang jaraknya cukup dekat yaitu Europa dan Ganymede. Seperti Ganymede, Io memutari Jupiter dengan posisi sisi yang sama sepanjang waktu. Adanya tetangga satelit ini menyebabkan gerakan Io nyaris tak beraturan. Aktivitas vulkanik yang terus menerus dan radiasi membuat ilmuwan meyakini sulit untuk hidup di satelit ini.
+## Planet Kerdil
+**Planet katai** atau **planet kerdil** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _dwarf planet_) adalah sebutan bagi [benda-benda langit](https://id.wikipedia.org/wiki/Benda_angkasa "Benda angkasa") yang memutari matahari dalam [Tata Surya](https://id.wikipedia.org/wiki/Tata_Surya "Tata Surya") yang sesuai dengan ciri-ciri berikut:
+
+- [mengedar](https://id.wikipedia.org/wiki/Orbit "Orbit") mengelilingi [matahari](https://id.wikipedia.org/wiki/Matahari "Matahari")
+- mempunyai [massa](https://id.wikipedia.org/wiki/Massa "Massa") yang cukup untuk memiliki [gravitasi tersendiri](https://id.wikipedia.org/wiki/Gravitasi "Gravitasi") agar dapat mengatasi [tekanan](https://id.wikipedia.org/wiki/Tekanan "Tekanan") [benda tegar](https://id.wikipedia.org/wiki/Benda_tegar "Benda tegar") (_rigid body_) sehingga benda angkasa tersebut mempunyai bentuk [kesetimbangan hidrostatik](https://id.wikipedia.org/w/index.php?title=Kesetimbangan_hidrostatik&action=edit&redlink=1 "Kesetimbangan hidrostatik (halaman belum tersedia)") (bentuk hampir bulat)
+- belum "membersihkan lingkungan" (_clearing the neighborhood_; mengosongkan orbit agar tidak ditempati benda-benda angkasa berukuran cukup besar lainnya selain [satelitnya](https://id.wikipedia.org/wiki/Satelit_alami "Satelit alami") sendiri) di daerah sekitar orbitnya
+- bukan merupakan [satelit](https://id.wikipedia.org/wiki/Satelit "Satelit") sebuah planet atau benda angkasa nonbintang lainnya
+
+Kategori "planet katai" ini diciptakan pada pertemuan [Persatuan Astronomi Internasional](https://id.wikipedia.org/wiki/Persatuan_Astronomi_Internasional "Persatuan Astronomi Internasional") pada [24 Agustus](https://id.wikipedia.org/wiki/24_Agustus "24 Agustus") [2006](https://id.wikipedia.org/wiki/2006 "2006"). Berdasarkan definisi ini, [Pluto](https://id.wikipedia.org/wiki/Pluto "Pluto") harus berubah statusnya dari planet menjadi planet katai karena Pluto belum mengosongkan daerah di sekitar orbitnya ([Sabuk Kuiper](https://id.wikipedia.org/wiki/Sabuk_Kuiper "Sabuk Kuiper")).
