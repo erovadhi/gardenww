@@ -1,4 +1,4 @@
-# Definisi
+b# Definisi
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Planets2008-id.jpg)
 
 **Tata Surya** adalah kumpulan benda langit yang terdiri atas sebuah [bintang](https://id.wikipedia.org/wiki/Bintang "Bintang") yang disebut [Matahari](https://id.wikipedia.org/wiki/Matahari "Matahari") dan semua objek yang terikat oleh gaya [gravitasinya](https://id.wikipedia.org/wiki/Gravitasi "Gravitasi"). Objek-objek tersebut termasuk delapan buah [planet](https://id.wikipedia.org/wiki/Planet "Planet") yang sudah diketahui dengan orbit berbentuk [elips](https://id.wikipedia.org/wiki/Elips "Elips"), lima [planet kerdil](https://id.wikipedia.org/wiki/Planet_kerdil "Planet kerdil")/katai, 290 [satelit alami](https://id.wikipedia.org/wiki/Satelit_alami "Satelit alami") yang telah diidentifikasi, dan jutaan benda langit ([meteor](https://id.wikipedia.org/wiki/Meteor "Meteor"), [asteroid](https://id.wikipedia.org/wiki/Asteroid "Asteroid"), [komet](https://id.wikipedia.org/wiki/Komet "Komet")) lainnya.
@@ -279,3 +279,44 @@ Manusia sudah berkali-kali menjejakkan kakinya di Bulan. Banyak hal yang kita ke
 Ukuran Bulan memengaruhi gaya gravitasi yang dimilikinya. Jarak yang tepat antara Bulan dan Bumi menyebabkan gaya gravitasi Bulan turut berperan dalam menjaga kestabilan Bumi.
 
 ### Fase Bulan
+**Fase bulan** adalah bentuk [Bulan](https://id.wikipedia.org/wiki/Bulan "Bulan") yang selalu berubah-ubah jika dilihat dari [Bumi](https://id.wikipedia.org/wiki/Bumi "Bumi"). Fase bulan itu tergantung pada kedudukan bulan terhadap matahari jika dilihat dari Bumi. Fase bulan disebut juga aspek bulan
+
+#### Fase Bulan Baru (New Moon)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/New_Moon.jpg/220px-New_Moon.jpg)
+Pada fase ini, bulan tidak menerima cahaya dari matahari sama sekali. Akibatnya, bulan berwarna gelap dan menjadi tak terlihat dari bumi. Fase ini terjadi pada hari pertama, yakni ketika Bulan berada pada posisi 0 derajat.
+#### Fase Sabit Muda (Waxing Crescent)
+Pada fase sabit muda, kurang dari setengah bagian dari Bulan terkena pantulan sinar matahari. Fase ini terjadi pada hari keempat yaitu ketika bulan berada pada posisi 45 derajat. Pada fase ini bulan berbentuk seperti sabit atau arit.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Crescent_moon_-_Hilal.jpg/1024px-Crescent_moon_-_Hilal.jpg)
+#### Fase Kuartal Pertama (First Quarter)
+Fase kuartal pertama terjadi pada hari ke delapan ketika bulan berada pada posisi 90 derajat. Pada fase ini, bulan terlihat berbentuk setengah lingkaran.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/First_quarter_moon_in_Novokuznetsk.jpg/1024px-First_quarter_moon_in_Novokuznetsk.jpg)
+#### Fase Cembung Awal (Waxing Gibbous)
+Fase ini ditandai dengan setengah bagian bulan mulai tampak lebih besar dari fase kuartal pertama. Fase yang juga disebut Waxing Gibbous ini terjadi pada hari kesebelas, yaitu ketika bulan berada pada posisi 135 derajat. Dari bumi, bulan akan terlihat seperti cakram yang biasa disebut dengan bulan cembung.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2012-10-25_20-41-01-waxing-gibbous-moon.jpg/800px-2012-10-25_20-41-01-waxing-gibbous-moon.jpg)
+#### Fase Bulan Purnama (Full Moon)
+Pada fase bulan purnama atau yang juga dikenal dengan full moon terjadi pada hari keempat belas ketika bulan berada pada posisi 180 derajat. Pada fase ini bulan berada pada sisi yang berlawanan dengan bumi.
+
+Hal ini lantas menyebabkan cahaya matahari terpantul ke Bulan sepenuhnya. Pada fase full moon ini, bulan terlihat seperti lingkaran penuh yang dikenal dengan istilah bulan purnama.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1024px-FullMoon2010.jpg)
+#### Fase Cembung Akhir (Wanning Gibbous)
+Pada fase ini, bulan akan tampak sedikit mengecil dari fase bulan penuh. Fase cembung akhir atau Wanning Gibbous terjadi di hari ketujuh belas, yakni ketika bulan berada pada posisi 225 derajat. Jika dilihat dari bumi, penampakannya mulai berubah kembali seperti cakram atau bulan cembung.
+#### Fase Kuartal III (Third Quarter)
+Pada fase kuartal ketiga, bulan kembali terlihat setengah bagian. Fase ini terjadi pada hari kedua puluh satu, tepatnya ketika bulan berada tepat pada posisi 270 derajat. Adapun penampakannya sama seperti bulan pada fase kuartal pertama.
+#### Fase Sabit Tua (Waning Crescent)
+Pada fase terakhir ini hanya sebagian kecil dari bulan yang terlihat dari bumi. Fase ini terjadi pada hari kedua puluh lima, ketika bulan berada pada posisi 315 derajat. Pada fase ini bulan berbentuk seperti sabit atau arit, sebelum akhirnya kembali lagi ke fase awal, yaitu fase bulan baru atau new moon.
+### Gerhana Bulan
+**Gerhana Bulan** terjadi ketika [Bulan](https://id.wikipedia.org/wiki/Bulan "Bulan") terutup oleh [bayangan Bumi](https://id.wikipedia.org/wiki/Bayangan_Bumi "Bayangan Bumi"). Peristiwa ini hanya dapat terjadi ketika posisi Matahari, Bumi, dan Bulan tepat atau hampir membentuk garis lurus dan Bulan berada dalam fase [Bulan purnama](https://id.wikipedia.org/wiki/Bulan_purnama "Bulan purnama"). Jenis dan durasi gerhana Bulan bergantung pada jarak Bulan terhadap [simpulnya](https://id.wikipedia.org/w/index.php?title=Simpul_bulan&action=edit&redlink=1 "Simpul bulan (halaman belum tersedia)") di [orbit](https://id.wikipedia.org/wiki/Orbit_Bulan "Orbit Bulan").
+
+Bulan yang mengalami gerhana total juga sering disebut **bulan darah** karena warna kemerahannya. Warna tersebut merupakan akibat dari [cahaya Matahari](https://id.wikipedia.org/wiki/Sinar_matahari "Sinar matahari") yang [terefraksi](https://id.wikipedia.org/wiki/Refraksi "Refraksi") oleh [atmosfer Bumi](https://id.wikipedia.org/wiki/Atmosfer_Bumi "Atmosfer Bumi") dan mencapai permukaan Bulan. Alasan yang sama juga menyebabkan warna kemerahan di langit Bumi saat [Matahari terbit](https://id.wikipedia.org/wiki/Matahari_terbit "Matahari terbit") dan [Matahari terbenam](https://id.wikipedia.org/wiki/Matahari_terbenam "Matahari terbenam").
+
+Tidak seperti [gerhana Matahari](https://id.wikipedia.org/wiki/Gerhana_Matahari_26_Desember_2019 "Gerhana Matahari 26 Desember 2019") yang hanya dapat dilihat dari wilayah dengan luas yang kecil, gerhana Bulan dapat dilihat dari seluruh bagian Bumi yang berada di sisi malam. Gerhana Bulan dapat berdurasi hingga hampir dua jam, sementara gerhana Matahari hanya berlangsung selama beberapa menit di wilayah tertentu. Selain itu, gerhana Bulan juga aman dilihat dengan mata telanjang dan tanpa perangkat pelindung khusus. Hal ini karena cahaya Bulan saat gerhana sangat redup, lebih redup daripada Bulan purnama.
+
+Gerhana Bulan selanjutnya dapat dilihat di [§ Gerhana Bulan yang akan dan segera terjadi](https://id.wikipedia.org/wiki/Gerhana_bulan#Gerhana_Bulan_yang_akan_dan_segera_terjadi).
+
+Gerhana Bulan dapat dibagi menjadi tiga yaitu:
+
+- Gerhana bulan total
+- Gerhana bulan sebagian — Bumi tidak seluruhnya menghalangi Bulan dari sinar matahari, sedangkan sebagian permukaan Bulan yang lain berada di daerah [penumbra](https://id.wikipedia.org/wiki/Penumbra "Penumbra") sehingga masih ada sebagian sinar Matahari yang sampai ke permukaan Bulan.
+- Gerhana bulan penumbra — Seluruh bagian Bulan berada di bagian penumbra sehingga Bulan masih dapat terlihat dengan warna yang suram.
+![](https://pastron.uad.ac.id/wp-content/uploads/phase_hasil_5-min.jpg)![](https://sscspj.sch.id/images/4_Article/Gambar_Gerhana_Bulan_Penumbra.jpg)
+![](https://i1.wp.com/risetcdn.jatimtimes.com/images/2020/11/09/Jenis-gerhana-bulan.-Foto-istimewa9890244835c924c9.jpg?quality=50)
