@@ -1,4 +1,4 @@
-b# Definisi
+# Definisi
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Planets2008-id.jpg)
 
 **Tata Surya** adalah kumpulan benda langit yang terdiri atas sebuah [bintang](https://id.wikipedia.org/wiki/Bintang "Bintang") yang disebut [Matahari](https://id.wikipedia.org/wiki/Matahari "Matahari") dan semua objek yang terikat oleh gaya [gravitasinya](https://id.wikipedia.org/wiki/Gravitasi "Gravitasi"). Objek-objek tersebut termasuk delapan buah [planet](https://id.wikipedia.org/wiki/Planet "Planet") yang sudah diketahui dengan orbit berbentuk [elips](https://id.wikipedia.org/wiki/Elips "Elips"), lima [planet kerdil](https://id.wikipedia.org/wiki/Planet_kerdil "Planet kerdil")/katai, 290 [satelit alami](https://id.wikipedia.org/wiki/Satelit_alami "Satelit alami") yang telah diidentifikasi, dan jutaan benda langit ([meteor](https://id.wikipedia.org/wiki/Meteor "Meteor"), [asteroid](https://id.wikipedia.org/wiki/Asteroid "Asteroid"), [komet](https://id.wikipedia.org/wiki/Komet "Komet")) lainnya.
