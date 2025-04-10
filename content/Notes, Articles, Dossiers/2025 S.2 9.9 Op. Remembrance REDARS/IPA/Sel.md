@@ -30,7 +30,8 @@ Robert Hooke merupakan salah satu ilmuwan terbesar di abad 17 yang meneliti bany
 ## Antonie Van Leeuwanhoek (1632-1723)
 Antonie Van Leeuwenhoek hanyalah orang biasa yang tidak banyak mengenyam pendidikan formal dan hanya sedikit pengalaman di bidang Sains. Namun demikian, dialah yang membuat mikroskop dengan perbesaran yang melampaui miroskop temuan peneliti yang lain. Mikroskop buatan Leewenhoek sangat aneh dan mirip dengan kaca pembesar. Mikroskopnya ringan dan bisa digenggam. Lensa tunggal yang digunakannya memiliki kualitas yang sangat baik, sehingga menghasilkan gambar yang sangat jelas dibanding dengan mikroskop-mikroskop lain pada zaman itu. Keingintahuannya yang tinggi membuat Leeuwenhoek tidak hanya mempelajari tentang sel, tetapi juga hal lain seperti mempelajari bubuk mesiu yang hampir membutakan matanya.
 # Sel Hewan dan Tumbuhan
-## Struktur Sel
+## Struktur Sel Hewan
+![](https://i0.wp.com/umsu.ac.id/berita/wp-content/uploads/2024/07/perbedaan-antara-sel-hewan-dan-sel-tumbuhan.jpg?fit=1000%2C490&ssl=1)
 ![](https://i0.wp.com/umsu.ac.id/berita/wp-content/uploads/2024/07/sel-hewan-pengertian-struktur-fungsi-dan-ciri-ciri.jpg?fit=1054%2C638&ssl=1)
 ![](https://i0.wp.com/rimbakita.com/wp-content/uploads/2020/09/sel-hewan.jpg)
 ### 1. Membran Sel
@@ -137,3 +138,176 @@ Nukleoplasma memiliki tekstur padat di dalam inti sel atau nukleus. Di dalamnya 
 ### 15. Membran Inti
 
 Membran inti adalah elemen struktural utama nukleus yang membungkus keseluruhan organel sel hewan. Di samping itu, organel ini berperan sebagai pemisah antara sitoplasma dan daerah inti. Membran inti bersifat non-permeable atau tidak bisa dilalui semua zat, baik padat ataupun cair sehingga sebagian besar molekul yang membuat nukleus membutuhkan adanya pori inti.
+## Struktur Sel Tumbuhan
+Pada gambar struktur sel tumbuhan di atas, tampak bahwa bagian-bagian sel tumbuhan memiliki kekhasan tersendiri yang membedakannya dari sel hewan. Di bawah ini dijelaskan mengenai struktur sel tumbuhan dan fungsinya.
+
+### 1. Dinding Sel
+
+Sel tumbuhan memiliki dinding sel yang terbuat dari selulosa, yakni serat karbohidrat yang memberikan kekuatan dan dukungan struktural. Fungsi struktur sel tumbuhan ini adalah membentuk kerangka luar yang memberikan perlindungan dan mempertahankan bentuk sel. Selain itu, dinding sel juga berperan dalam pertukaran zat antara sel dan lingkungannya.
+
+### 2. Membran Sel
+
+Di bawah dinding sel, terdapat membran sel yang terdiri dari lapisan lipid ganda (disebut membran fosfolipid). Membran sel mengelilingi sel dan mengatur aliran zat masuk dan keluar dari sel. Sel-sel tumbuhan memiliki struktur yang disebut _plasmodesma_, yang memungkinkan terjadinya pertukaran molekul dan komunikasi antar sel-sel yang berdekatan.
+
+### 3. Sitoplasma
+
+Di dalam sel tumbuhan terdapat sitoplasma, yaitu substansi kental yang terletak di antara membran sel dan inti sel. Sitoplasma mengandung berbagai organel, seperti mitokondria, kloroplas, endoplasma retikulum, dan ribosom. Struktur organel sel tumbuhan ini berperan dalam berbagai fungsi seluler, seperti produksi energi, sintesis protein, dan pengolahan zat-zat kimia.
+
+### 4. Inti Sel
+
+Inti sel adalah pusat kontrol sel. Di dalam inti sel terdapat DNA. Instruksi genetik di dalam DNA mengatur pertumbuhan, perkembangan, dan fungsi sel. Inti sel dikelilingi oleh membran inti. Fungsi struktur sel tumbuhan ini adalah memisahkan inti sel dari sitoplasma dan melindungi DNA dari kerusakan.
+
+### 5. Mitokondria
+
+Mitokondria adalah organel sel yang berfungsi sebagai tempat respirasi pada makhluk hidup. Respirasi sendiri adalah proses perombakan atau katabolisme untuk menghasilkan energi yang dibutuhkan dalam menjalankan berbagai fungsi biologis dan aktivitas seluler.
+
+### 6. Ribosom
+
+Ribosom adalah partikel yang lebih kecil dari mitokondria dan hanya dapat dilihat dengan mikroskop elektron. Dari sekian bagian-bagian yang menyusun sel tumbuhan, ribosom tersebar di dalam sitoplasma atau menempel pada bagian luar retikulum endoplasma (RE). Ribosom tersusun dari RNA dan protein.
+
+### 7. Retikulum Endoplasma
+
+Retikulum Endoplasma (RE) adalah sistem angkutan untuk berbagai macam molekul di dalam sel dan bahkan antar sel melalui _plasmadesmata_. Struktur organel sel tumbuhan ini terdiri dari dua jenis, yaitu kasar dan halus. RE memiliki susunan yang menyerupai kantung berlapis-lapis disebut _cisternae_.
+
+### 8. _Plastida_
+
+_Plastida_ adalah organel sel terbesar pada sel tumbuhan. _Plastida_ berbentuk lensa bikonveks dan terdapat pada seluruh sel-sel tumbuhan. _Plastida_ memiliki ukuran dan bentuk yang bervariasi. Berdasarkan warnanya, _plastida_ terdiri dari _leukoplas_, kloroplas, dan kromoplas.
+
+### 9. Kloroplas
+
+Kloroplas adalah struktur organel sel tumbuhan yang memberikan warna hijau dan berperan penting dalam fotosintesis. Kloroplas mengandung pigmen hijau yang disebut klorofil. Fungsi klorofil adalah menyerap energi matahari agar tumbuhan dapat mengubah air dan karbon dioksida menjadi glukosa dan oksigen.
+
+### 10. Vakuola
+
+Vakuola adalah ruang berisi cairan yang terdapat di dalam sitoplasma sel pada tumbuhan. Vakuola berperan dalam penyimpanan air, garam, pigmen, dan zat-zat lainnya. Vakuola juga berperan dalam memberikan dukungan mekanis dan mengatur tekanan osmotik dalam sel tumbuhan.
+## Perbandingan
+![](https://akupintar.id/documents/20143/0/Pengertian+Sel.jpeg/2aa2363f-0c4b-727d-2f4a-b9b5e69bccf3?t=1687875867255&imagePreview=1)
+![](https://id-static.z-dn.net/files/db9/3bfb13c800d4892890c8e08294cbbe67.jpg)
+# Organisme Berdasarkan Jumlah Selnya
+## Organisme Uniseluler
+**Organisme bersel satu** atau **organisme uniseluler** adalah [makhluk hidup](https://id.wikipedia.org/wiki/Makhluk_hidup "Makhluk hidup") yang terdiri dari satu [sel](https://id.wikipedia.org/wiki/Sel "Sel") tunggal. Organisme uniselular dapat berupa [koloni](https://id.wikipedia.org/wiki/Koloni "Koloni") dan hidup secara individual. Yang termasuk organisme bersel satu yaitu:
+
+- [prokariota](https://id.wikipedia.org/wiki/Prokariota "Prokariota"):
+    - [bakteri](https://id.wikipedia.org/wiki/Bakteri "Bakteri") (di antaranya [sianobakteri (Cyanobakteria)](https://id.wikipedia.org/wiki/Sianobakteri "Sianobakteri"))
+    - [arkea (Archaea, awalnya Archaebacteria)](https://id.wikipedia.org/wiki/Arkea "Arkea")
+- [eukariota](https://id.wikipedia.org/wiki/Eukariota "Eukariota"):
+    - [ameba](https://id.wikipedia.org/wiki/Ameba "Ameba") (amoeba)
+    - [jamur](https://id.wikipedia.org/wiki/Jamur "Jamur") dalam keadaan istimewa seperti [ragi](https://id.wikipedia.org/wiki/Ragi "Ragi")
+    - beberapa jenis [protista](https://id.wikipedia.org/wiki/Protista "Protista")
+
+Organisme uniseluler dianggap lebih primitif daripada [organisme multiselular](https://id.wikipedia.org/wiki/Organisme_multiselular "Organisme multiselular") karena kompleksitas yang lebih rendah. Organisme bersel tunggal terdiri dari satu sel tunggal, tetapi tubuh multiseluler terdiri dari banyak sel yang mengkhususkan diri dalam fungsi-fungsi tertentu bersama-sama. Setelah bersama-sama membuat jaringan kemudian membentuk organ, dan organ membentuk sistem organ. Terakhir, membentuk pengelompokan bentuk-bentuk organisme kompleks.
+
+Sel adalah bagian terkecil dari satuan unit penunjang kehidupan. Makhluk hidup yang paling sederhana hanya memiliki satu sel, yang memuat seluruh informasi dan proses yang diperlukan untuk kelangsungan hidup dan reproduksi sel.
+
+[Sel](https://id.wikipedia.org/wiki/Sel "Sel") organisme uniseluler memiliki dinding luar yang tipis, yang dapat ditembus oleh zat-zat kimia. Di dalam dinding sel terdapat cairan mirip selai yang disebut sitoplasma, yang memuat struktur-struktur kecil atau organ-organ kecil, biasa juga disebut sebagai [organel](https://id.wikipedia.org/wiki/Organel "Organel"), untuk menjalankan fungsi-fungsi khusus. Struktur pusatnya adalah [nukleus](https://id.wikipedia.org/wiki/Nukleus "Nukleus"), yang memuat gen yang menentukan bentuk dan fungsi sel. Selebihnya adalah struktur-struktur lain yang melepaskan energi dari makanan, membuang zat-zat sisa, atau melindungi sel dari serangan organisme lain.
+## Organisme Multiseluler
+**Multiselular** atau **Multiseluler** adalah suatu istilah [biologi](https://id.wikipedia.org/wiki/Biologi "Biologi") untuk [organisme](https://id.wikipedia.org/wiki/Organisme "Organisme") yang mempunyai banyak [sel](https://id.wikipedia.org/wiki/Sel "Sel") yang isinya cukup kontras dengan _organisme [uniselular](https://id.wikipedia.org/wiki/Uniselular "Uniselular")_ yang pada umumnya hanya mempunyai satu sel. Organisme jenis ini biasanya dapat dilihat dengan mata telanjang (kecuali untuk beberapa organisme yang lebih spesifik). Contoh dari organisme multiselular adalah [hewan](https://id.wikipedia.org/wiki/Hewan "Hewan") dan [tumbuhan](https://id.wikipedia.org/wiki/Tumbuhan "Tumbuhan").
+
+Kita tahu, dari struktur sel mereka, bahwa multiseluleritas telah ber[evolusi](https://id.wikipedia.org/wiki/Evolusi "Evolusi") secara independen berkali-kali dalam sejarah Bumi, misalnya pada [tumbuhan](https://id.wikipedia.org/wiki/Tumbuhan "Tumbuhan") dan [hewan](https://id.wikipedia.org/wiki/Hewan "Hewan"). Bentuk kehidupan paling awal dalam catatan fosil adalah [sianobakteri](https://id.wikipedia.org/wiki/Sianobakteri "Sianobakteri") dari era [Arkaikum](https://id.wikipedia.org/wiki/Arkaikum "Arkaikum") pada 3,5 miliar tahun yang lalu. Mereka tumbuh sebagai sel tunggal namun hidup berkoloni sebagai [stromatolit](https://id.wikipedia.org/wiki/Stromatolit "Stromatolit").
+
+Fosil multiseluler pertama telah ditemukan dalam batuan [Paleoproterozoikum](https://id.wikipedia.org/wiki/Paleoproterozoikum "Paleoproterozoikum") berusia 2,1 miliar tahun dari Gabon di Afrika. Ini adalah sel [eukariotik](https://id.wikipedia.org/wiki/Eukariota "Eukariota") yang hidup berkoloni. Fosil-fosil tersebut dapat dilihat dengan mata telanjang, dan karenanya jauh lebih besar daripada [bakteri](https://id.wikipedia.org/wiki/Bakteri "Bakteri"). Para penulis berpendapat bahwa salah satu keuntungan dari multiseluleritas adalah ukurannya yang lebih besar, dan bahwa tingkat oksigen yang memadai diperlukan untuk mendukung kehidupan semacam ini.
+
+### Kekurangan
+Untuk be[reproduksi](https://id.wikipedia.org/wiki/Reproduksi "Reproduksi"), organisme multiseluler harus memecahkan masalah regenerasi seluruh organisme dari [sel germinal](https://id.wikipedia.org/w/index.php?title=Sel_germinal&action=edit&redlink=1 "Sel germinal (halaman belum tersedia)") (yaitu [sel sperma](https://id.wikipedia.org/wiki/Sel_sperma "Sel sperma") dan [sel telur](https://id.wikipedia.org/wiki/Sel_telur "Sel telur")), sebuah masalah yang dipelajari dalam biologi perkembangan.
+
+Organisme multiseluler, terutama hewan yang berumur panjang, juga menghadapi tantangan kanker, yang terjadi ketika sel gagal mengatur pertumbuhannya dalam program perkembangan normal.
+
+### Keunggulan
+Multiseluleritas memungkinkan suatu organisme untuk melampaui batas ukuran yang biasanya diberlakukan oleh difusi: sel tunggal dengan ukuran yang meningkat memiliki rasio permukaan-ke-volume yang menurun dan mengalami kesulitan untuk menyerap nutrisi yang cukup dan mengangkutnya ke seluruh sel. Oleh karena itu, organisme multiseluler memiliki keunggulan kompetitif dari peningkatan ukuran tanpa batasan. Mereka dapat memiliki masa hidup yang lebih lama karena mereka dapat terus hidup ketika sel-sel individu mati. Multiseluleritas juga memungkinkan peningkatan kompleksitas dengan memungkinkan diferensiasi jenis sel dalam satu organisme.
+
+Namun, apakah semua ini dapat dilihat sebagai keuntungan masih bisa diperdebatkan: Sebagian besar organisme hidup bersel tunggal, dan bahkan dalam hal biomassa, organisme bersel tunggal jauh lebih sukses daripada hewan, meskipun tidak dengan tumbuhan. Alih-alih melihat ciri-ciri seperti umur yang lebih panjang dan ukuran yang lebih besar sebagai sebuah keuntungan, banyak ahli biologi yang melihat hal tersebut hanya sebagai contoh keanekaragaman, dengan konsekuensi yang menyertainya.
+
+## Spesialisasi Sel
+### **Spesialisasi Sel (Diferensiasi Sel): Definisi dan Proses**  
+**Spesialisasi sel** (atau **diferensiasi sel**) adalah proses di mana sel-sel yang belum terspesialisasi (seperti sel punca atau sel embrionik) berkembang menjadi sel dengan **bentuk, struktur, dan fungsi khusus** untuk menjalankan peran tertentu dalam organisme multiseluler. Proses ini terjadi melalui **aktivasi atau penonaktifan gen tertentu**, yang mengarah pada produksi protein khusus sesuai kebutuhan sel.  
+
+#### **Mengapa Spesialisasi Sel Penting?**  
+- Memungkinkan pembentukan **jaringan dan organ** yang kompleks.  
+- Meningkatkan efisiensi metabolisme karena setiap sel fokus pada fungsi tertentu.  
+- Membantu organisme bertahan hidup dan beradaptasi.  
+
+---
+
+## **Contoh Spesialisasi Sel pada Hewan, Tumbuhan, dan Manusia**  
+
+### **1. Spesialisasi Sel pada Manusia & Hewan**  
+#### **a. Sel Darah Merah (Eritrosit)**  
+- **Fungsi:** Mengangkut oksigen dari paru-paru ke seluruh tubuh.  
+- **Spesialisasi:**  
+  - Tidak memiliki inti sel (pada manusia) untuk memberi ruang lebih bagi hemoglobin.  
+  - Bentuk bikonkaf (cekung di kedua sisi) untuk memperluas permukaan pertukaran gas.  
+  - Fleksibel agar bisa melewati pembuluh kapiler sempit.  
+
+#### **b. Sel Otot (Miosit)**  
+- **Fungsi:** Kontraksi untuk pergerakan.  
+- **Spesialisasi:**  
+  - Memiliki banyak **miofibril** (terdiri dari aktin & miosin) untuk kontraksi.  
+  - Kaya mitokondria untuk menghasilkan energi (ATP).  
+  - Pada otot jantung (**kardiomiosit**), sel-sel saling terhubung untuk koordinasi detak jantung.  
+
+#### **c. Sel Saraf (Neuron)**  
+- **Fungsi:** Menghantarkan sinyal listrik dan kimia.  
+- **Spesialisasi:**  
+  - Memiliki **dendrit** (penerima sinyal) dan **akson** (pengirim sinyal).  
+  - Dilapisi **mielin** untuk mempercepat impuls saraf.  
+  - Dapat mencapai panjang >1 meter (misal: neuron di sumsum tulang belakang).  
+
+#### **d. Sel Epitel Usus**  
+- **Fungsi:** Menyerap nutrisi dari makanan.  
+- **Spesialisasi:**  
+  - Memiliki **mikrovili** (tonjolan seperti jari) untuk memperluas permukaan penyerapan.  
+  - Mengandung enzim pencernaan (misal: laktase) untuk memecah molekul makanan.  
+
+---
+
+### **2. Spesialisasi Sel pada Tumbuhan**  
+#### **a. Sel Xilem**  
+- **Fungsi:** Mengangkut air dan mineral dari akar ke daun.  
+- **Spesialisasi:**  
+  - Dinding sel **berlignin** (kuat dan tahan tekanan).  
+  - Sel mati saat matang, membentuk tabung kosong untuk aliran air.  
+
+#### **b. Sel Palisade (Jaringan Mesofil Daun)**  
+- **Fungsi:** Tempat utama fotosintesis.  
+- **Spesialisasi:**  
+  - Berbentuk silinder rapat di bawah epidermis daun.  
+  - Mengandung banyak **kloroplas** untuk menangkap cahaya matahari.  
+
+#### **c. Sel Rambut Akar**  
+- **Fungsi:** Menyerap air dan mineral dari tanah.  
+- **Spesialisasi:**  
+  - Memiliki tonjolan panjang untuk memperluas permukaan penyerapan.  
+  - Dinding sel tipis untuk memudahkan difusi air.  
+
+---
+
+### **3. Spesialisasi Sel pada Hewan Lain**  
+#### **a. Sel Penyengat (Nematosit) pada Ubur-Ubur**  
+- **Fungsi:** Pertahanan dan menangkap mangsa.  
+- **Spesialisasi:**  
+  - Mengandung kapsul berisi racun dan benang penyengat.  
+  - Terpicu oleh sentuhan untuk meluncurkan sengatan.  
+
+#### **b. Sel Pigmen (Kromatofor) pada Cumi-Cumi**  
+- **Fungsi:** Mengubah warna untuk kamuflase.  
+- **Spesialisasi:**  
+  - Mengandung kantong pigmen yang dapat mengembang/menyusut.  
+  - Dikontrol oleh sistem saraf untuk perubahan warna cepat.  
+
+---
+
+### **Proses Diferensiasi Sel**  
+1. **Sel induk/punca** (stem cell) membelah dan mulai mengekspresikan gen tertentu.  
+2. **Faktor transkripsi** mengaktifkan gen spesifik yang menentukan fungsi sel.  
+3. Sel berkembang menjadi bentuk khusus (misal: neuron, sel otot, atau sel darah).  
+4. Pada beberapa kasus, sel kehilangan kemampuan membelah (contoh: sel darah merah matang).  
+
+---
+
+### **Kesimpulan**  
+Spesialisasi sel adalah dasar dari kompleksitas organisme multiseluler. Setiap sel memiliki struktur unik yang disesuaikan dengan fungsinya, mulai dari transportasi oksigen (eritrosit), kontraksi (sel otot), hingga fotosintesis (sel palisade). Tanpa diferensiasi sel, organisme tidak akan memiliki jaringan dan organ yang efisien.  
+
+**Contoh Tambahan:**  
+- **Manusia:** Sel sperma (berflagela untuk berenang), sel lemak (menyimpan energi).  
+- **Tumbuhan:** Sel guard (mengatur bukaan stomata), sel floem (mengangkut gula).  
+- **Hewan:** Sel lendir (pada ikan untuk mengurangi gesekan air), sel magnetik (pada burung untuk navigasi).  
